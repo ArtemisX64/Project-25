@@ -14,6 +14,7 @@ python src/backend.py -- To run the backend with server
 ``` 
 **PASS `wiki` to train using wiki and run server using wiki**
 *eg:*
+`python src/parser.py "Donald Trump"`
 `python src/backend.py wiki`
 `python src/trainer.py wiki`
 
