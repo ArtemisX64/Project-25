@@ -46,12 +46,15 @@ def save(entity_data):
 
     print("File saved")
 
-article_name = sys.argv[1]
-print(f"wikipedia_article: {article_name}")
-article = get_wikipedia_article(article_name)
-if article:
-    data = split_into_sentences(article)
-    entity_data = extract_entities(data)
-    save(entity_data)
-else:
-    print("No such article was found")
+try:
+    article_name = sys.argv[1]
+    print(f"wikipedia_article: {article_name}")
+    article = get_wikipedia_article(article_name)
+    if article:
+        data = split_into_sentences(article)
+        entity_data_jo = extract_entities(data)
+        save(entity_data_jo)
+    else:
+        print("No such article was found")
+except:
+    print("No argument found")
