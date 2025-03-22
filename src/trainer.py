@@ -9,8 +9,8 @@ DEFAULT_TRAIN_DATA = "default_train_data.csv"
 DEFAULT_MODEL = "nlp_model_trf"
 
 def read_train_data(custom: bool = False):
-    train_data = DEFAULT_TRAIN_DATA if not custom else "wiki_train_data.csv"
-    df = pd.read_csv(DEFAULT_TRAIN_DATA)
+    train_data_csv = DEFAULT_TRAIN_DATA if not custom else "wiki_train_data.csv"
+    df = pd.read_csv(train_data_csv)
 
     train_data = []
     
@@ -22,12 +22,14 @@ def read_train_data(custom: bool = False):
             start_col = f"start{i}"
             text_col = f"text{i}"
             label_col = f"label{i}"
-            
-            if pd.notna(row[start_col]) and pd.notna(row[text_col]) and pd.notna(row[label_col]):
-                start = int(row[start_col])
-                end = start + len(row[text_col])  # Compute end position
-                label = row[label_col]
-                entities.append((start, end, label))
+            try:
+                if pd.notna(row[start_col]) and pd.notna(row[text_col]) and pd.notna(row[label_col]):
+                    start = int(row[start_col])
+                    end = start + len(row[text_col])  # Compute end position
+                    label = row[label_col]
+                    entities.append((start, end, label))
+            except:
+                break
         
         if entities:
             train_data.append((text, {"entities": entities}))

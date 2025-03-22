@@ -13,11 +13,14 @@ python src/trainer.py -- To train model
 python src/backend.py -- To run the backend with server
 ``` 
 **PASS `wiki` to train using wiki and run server using wiki**
-*eg:*
-`python src/parser.py "Donald Trump"`
-`python src/backend.py wiki`
-`python src/trainer.py wiki`
+<p>*eg:*</p>
+- `python src/parser.py "Donald Trump"`
+- `python src/backend.py wiki`
+- `python src/trainer.py wiki`
 
 
 ## Dependencies
-`pip install spacy pandas wikipedia-api flask python-dotenv tqdm matplotlib`
+```
+pip install spacy pandas wikipedia-api flask python-dotenv tqdm matplotlib
+python -m spacy download en_core_web_sm                                            
+```
