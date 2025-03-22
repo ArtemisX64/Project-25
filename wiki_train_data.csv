@@ -1,0 +1,169 @@
+text,start0,text0,label0,start1,text1,label1,start2,text2,label2,start3,text3,label3,start4,text4,label4,start5,text5,label5,start6,text6,label6,start7,text7,label7,start8,text8,label8,start9,text9,label9,start10,text10,label10,start11,text11,label11,start12,text12,label12,start13,text13,label13,start14,text14,label14,start15,text15,label15,start16,text16,label16,start17,text17,label17
+"Muthuvel Karunanidhi Stalin (, Tamil pronunciation: ['mut̪ːuʋeːl kaɾuˈɳaːniði sʈaːˈlin] , born 1 March 1953) is an Indian politician and former actor serving as the 8th and current Chief Minister of Tamil Nadu since 2021.",0.0,Muthuvel Karunanidhi Stalin,PERSON,31.0,Tamil,LANGUAGE,95.0,1 March 1953,DATE,115.0,Indian,NORP,165.0,8th,ORDINAL,199.0,Tamil Nadu,GPE,216.0,2021,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He is the youngest son of the former Chief Minister M.,52.0,M.,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Karunanidhi, his son Udhayanidhi serving as deputy chief minister of state under him.",0.0,Karunanidhi,PERSON,21.0,Udhayanidhi,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stalin has been the president of the Dravida Munnetra Kazhagam (DMK) party since 28 August 2018 , after serving as Acting President of party from 2017 January to 2018 August.",0.0,Stalin,PERSON,37.0,Dravida Munnetra Kazhagam,ORG,64.0,DMK,ORG,81.0,28 August 2018,DATE,146.0,2017 January,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He served as the 45th Mayor of Chennai from 1996 to 2002 and the 1st Deputy Chief Minister of Tamil Nadu from 2009 to 2011.,17.0,45th,ORDINAL,31.0,Chennai,GPE,44.0,1996 to 2002,DATE,65.0,1st,ORDINAL,94.0,Tamil Nadu,GPE,110.0,2009 to 2011,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin was placed 24th on the list of India's Most Powerful Personalities in 2022 by The Indian Express.,0.0,Stalin,PERSON,18.0,24th,ORDINAL,38.0,India,GPE,77.0,2022,DATE,85.0,The Indian Express,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He was fondly called as Thalapathi.,24.0,Thalapathi,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Early life and family
+Stalin is the third son of 2nd Chief Minister of Tamil Nadu and DMK Chief M.",22.0,Stalin,PERSON,36.0,third,ORDINAL,49.0,2nd,ORDINAL,71.0,Tamil Nadu,GPE,86.0,DMK,ORG,96.0,M.,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Karunanidhi, and was born to his wife, Dayalu Ammal.",0.0,Karunanidhi,PERSON,39.0,Dayalu Ammal,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stalin was born in Madras, now Chennai, on 1 March 1953.",0.0,Stalin,PERSON,19.0,Madras,GPE,31.0,Chennai,GPE,43.0,1 March 1953,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Karunanidhi was addressing a condolence meeting for Soviet leader Joseph Stalin, who died only four days after his child was born, and thus decided to name his son after Stalin.",0.0,Karunanidhi,PERSON,52.0,Soviet,NORP,66.0,Joseph Stalin,PERSON,90.0,only four days,DATE,170.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin studied at the Madras Christian College Higher Secondary School.,0.0,Stalin,PERSON,18.0,the Madras Christian College Higher Secondary School,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"He completed a pre-university course at Vivekananda College, and obtained a history degree from Presidency College, Chennai of University of Madras in 1973.",40.0,Vivekananda College,ORG,96.0,Presidency College,ORG,116.0,Chennai,GPE,127.0,University of Madras,ORG,151.0,1973,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin was conferred an Honorary Doctorate by Anna University on 1 August 2009.,0.0,Stalin,PERSON,21.0,an Honorary Doctorate,WORK_OF_ART,46.0,Anna University,ORG,65.0,1 August 2009,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stalin married Durga (alias Shantha) on 20 August 1975, and has two children.",0.0,Stalin,PERSON,15.0,Durga,PERSON,28.0,Shantha,PERSON,40.0,20 August 1975,DATE,64.0,two,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"His son is Udhayanidhi Stalin, an actor and politician.",11.0,Udhayanidhi Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Udhayanidhi is married to Kiruthiga Udhayanidhi, an Indian Tamil film director.",0.0,Udhayanidhi,PERSON,26.0,Kiruthiga Udhayanidhi,PERSON,52.0,Indian,NORP,59.0,Tamil,NORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"His daughter is Senthamarai Sabareesan, an entrepreneur and educationist.",16.0,Senthamarai Sabareesan,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"She is the director of Sunshine Schools, Chennai.",23.0,Sunshine Schools,ORG,41.0,Chennai,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Senthamarai is married to Sabareesan Vedamurthy, an entrepreneur and political strategist.",0.0,Senthamarai,PERSON,26.0,Sabareesan Vedamurthy,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Like his father and namesake, Stalin has publicly disclosed that he is an atheist.",30.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+But he also said that he is not against any religious beliefs.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Politics
+His political career began in his early teens when he started the DMK Gopalapuram Youth Wing with several friends.",0.0,Politics,PERSON,39.0,his early teens,DATE,71.0,the DMK Gopalapuram Youth Wing,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"As a 14 year old, he campaigned for his uncle, Murasoli Maran, in the 1967 elections.",3.0,a 14 year old,DATE,47.0,Murasoli Maran,PERSON,70.0,1967,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 1973, Stalin was elected to the General committee of the DMK.",3.0,1973,DATE,9.0,Stalin,PERSON,60.0,DMK,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"He came to the limelight when he was jailed in Central Prison, Madras under the Maintenance of Internal Security Act (MISA) for protesting against the Emergency in 1976.",47.0,Central Prison,FAC,63.0,Madras,GPE,76.0,the Maintenance of Internal Security Act,LAW,151.0,Emergency,EVENT,164.0,1976,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He was beaten up in custody and a fellow DMK prisoner C.,41.0,DMK,PRODUCT,54.0,C.,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chittibabu died of injuries and police torture while protecting him.,0.0,Chittibabu,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He wrote his final year BA exams while in prison.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin formed the DMK youth wing.,0.0,Stalin,PERSON,18.0,DMK,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 1982 Stalin became the youth wing secretary of DMK, a post he held for more than four decades.",3.0,1982,DATE,8.0,Stalin,PERSON,50.0,DMK,ORG,74.0,more than four decades,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"DMK Youth Wing
+In 1968, Stalin started the DMK Youth Wing in Gopalapuram in a barber shop with his friends.",0.0,DMK Youth Wing,ORG,18.0,1968,DATE,24.0,Stalin,PERSON,39.0,the DMK Youth Wing,ORG,61.0,Gopalapuram,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 1983, he transformed the Gopalapuram Youth Wing into a Statewide phenomenon and led the frontal as a Secretary, a position he held for more than four decades.",3.0,1983,DATE,24.0,the Gopalapuram Youth Wing,ORG,138.0,more than four decades,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"During the early stages of the Youth Wing, he travelled across Tamil Nadu with other members to mentor fellow youth of the state in key areas of active politics at the grassroots level.",27.0,the Youth Wing,ORG,63.0,Tamil Nadu,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Electoral performance
+Stalin contested the Assembly polls unsuccessfully from Thousand Lights constituency in Chennai.",22.0,Stalin,PERSON,43.0,Assembly,ORG,78.0,Thousand Lights,LOC,110.0,Chennai,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 1989 Stalin contested Assembly polls from Thousand Lights constituency again, and won.",3.0,1989,DATE,8.0,Stalin,PERSON,25.0,Assembly,ORG,45.0,Thousand Lights,LOC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The DMK government got dismissed in 1991 before completing its full five-year term.,4.0,DMK,ORG,36.0,1991,DATE,68.0,five-year,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 1991, he contested for the third time from the same Assembly constituency, but lost to K.",3.0,1991,DATE,30.0,third,ORDINAL,55.0,Assembly,ORG,90.0,K.,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Krishnaswamy of the AIADMK.,0.0,Krishnaswamy,PERSON,20.0,AIADMK,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Again in 1996, Stalin won the election as an MLA from the Thousand Lights constituency.",9.0,1996,DATE,15.0,Stalin,PERSON,58.0,Thousand Lights,LOC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 2003, Stalin became Deputy General Secretary of the DMK.",3.0,2003,DATE,9.0,Stalin,PERSON,55.0,DMK,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 2011 Stalin changed his constituency for the first time in his political career, moving from Thousand Lights to Kolathur constituency on the outskirts of Chennai city.",3.0,2011,DATE,8.0,Stalin,PERSON,48.0,first,ORDINAL,96.0,Thousand Lights,LOC,115.0,Kolathur,GPE,157.0,Chennai,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Mayor of Chennai
+Stalin became the city's first directly elected mayor in 1996.",9.0,Chennai,GPE,17.0,Stalin,GPE,42.0,first,ORDINAL,74.0,1996,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"He coined a pet project called Singara Chennai (Beautiful Chennai), lauded for improving Chennai's infrastructure.",31.0,Singara Chennai,ORG,89.0,Chennai,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+His efforts in improving city infrastructure earned him the title of Managara Thanthai (father of the city).,69.0,Managara Thanthai,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"During his tenure as mayor, Stalin modernised the garbage disposal system of the city of Chennai by giving priority to cleaning works.",28.0,Stalin,PERSON,89.0,Chennai,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"He implemented integrated development projects such as health, public construction and schools.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He solved the congestion of the city of Chennai by building huge flyovers.,40.0,Chennai,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"During his first tenure, 9 major flyovers and 49 short bridges were built.",11.0,first,ORDINAL,25.0,9,CARDINAL,46.0,49,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He also improved the standard of Corporation Schools to be on par with private schools.,33.0,Corporation Schools,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In addition, parks and fountains were set up at 18 major junctions.",48.0,18,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81 parks were cleaned and properly maintained.,0.0,81,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Saplings were planted at the Chennai Marina, the second largest beach in the world.",25.0,the Chennai Marina,FAC,49.0,second,ORDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The slaughterhouse at Perambur have been modernised to avoid polluting the environment.,22.0,Perambur,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"During his tenure, it was decided to build flyovers on 10 congested roads before the end of his term.",55.0,10,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+₹95 crores have been allocated for the construction of flyovers.,0.0,₹95 crores,MONEY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"However, 30% of the funds were left over when the flyovers were opened according to him.",9.0,30%,PERCENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He was re-elected Mayor for the 2nd time in 2001.,32.0,2nd,ORDINAL,44.0,2001,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"However, the then Chief Minister J.",33.0,J.,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jayalalithaa enacted the Tamil Nadu Municipal Laws (Amendment) Act, in 2002, which prevents a person from holding two elected posts in the government.",0.0,Jayalalithaa,PERSON,21.0,the Tamil Nadu Municipal Laws (Amendment) Act,LAW,71.0,2002,DATE,114.0,two,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+This law was applied retroactively to Stalin's case (he was an elected Thousand Lights  MLA) in a move widely seen as aimed at removing him as Chennai's mayor.,38.0,Stalin,PERSON,71.0,Thousand Lights,LOC,143.0,Chennai,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"However, the Madras High Court struck down the law stating that legislative bodies were not ""prevented"" from making laws affecting the ""substantive rights"" of persons retrospectively.",9.0,the Madras High Court,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"However, the court held that under Madras (now Chennai) City Municipal Corporation Act, 1919, a person cannot be mayor for two consecutive terms, though unlike Stalin, earlier mayors were not directly elected.",35.0,Madras,GPE,47.0,Chennai,GPE,88.0,1919,DATE,123.0,two,CARDINAL,160.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MK Stalin did not appeal in the Supreme Court.,3.0,Stalin,PERSON,28.0,the Supreme Court,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Minister
+In the 2006 Assembly Elections, the DMK regained control of the state assembly.",16.0,2006,DATE,21.0,Assembly Elections,ORG,45.0,DMK,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin became the Minister for Rural Development and Local Administration in the Government of Tamil Nadu and retained this office throughout his term.,0.0,Stalin,PERSON,31.0,Rural Development and Local Administration,ORG,77.0,the Government of Tamil Nadu,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"During his tenure, he was instrumental in the extensive spread of Women Self-Help Groups across the State by establishing 1,75,493 Women SHGs.",122.0,"1,75,493",CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He also established various comprehensive drinking water projects such as Hogenakkal and Ramanathapuram water schemes.,74.0,Hogenakkal,GPE,89.0,Ramanathapuram,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 2008, he became treasurer of DMK.",3.0,2008,DATE,32.0,DMK,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Deputy Chief Minister of Tamil Nadu
+On 29 May 2009, Stalin was nominated as Deputy Chief Minister of Tamil Nadu by Governor Surjit Singh Barnala.",25.0,Tamil Nadu,GPE,39.0,29 May 2009,DATE,52.0,Stalin,PERSON,101.0,Tamil Nadu,GPE,124.0,Surjit Singh Barnala,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+He was first Deputy Chief Minister of Tamil Nadu.,7.0,first,ORDINAL,38.0,Tamil Nadu,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Opposition leader
+During the 2016 Assembly election, Stalin went on a statewide tour titled Namakku Naame to appeal to the youth.",29.0,2016,DATE,34.0,Assembly,ORG,53.0,Stalin,PERSON,92.0,Namakku Naame,EVENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin won the Kolathur constituency and was appointed as the opposition leader.,0.0,Stalin,PERSON,15.0,Kolathur,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 2017, Stalin went on another Namakku Naame tour.",3.0,2017,DATE,9.0,Stalin,PERSON,32.0,Namakku Naame,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In 2018, his father Karunanidhi died, leaving Stalin the president of the DMK.",3.0,2018,DATE,20.0,Karunanidhi,PERSON,46.0,Stalin,PERSON,74.0,DMK,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Secular Progressive Alliance (2019 general election – present)
+Stalin formed the Secular Progressive Alliance in Tamil Nadu and led the alliance in 2019 general election in the state.",0.0,Secular Progressive Alliance,ORG,30.0,2019,DATE,63.0,Stalin,PERSON,77.0,the Secular Progressive Alliance,ORG,113.0,Tamil Nadu,GPE,148.0,2019,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The Secular Progressive Alliance won 39 out of 40 Parliament seats, and 12 out of 21 in the Assembly by-election, with 52% of the vote.",0.0,The Secular Progressive Alliance,ORG,37.0,39,CARDINAL,47.0,40,CARDINAL,50.0,Parliament,ORG,72.0,12,CARDINAL,82.0,21,CARDINAL,92.0,Assembly,ORG,119.0,52%,PERCENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+It was his first victory since taking charge as DMK President.,11.0,first,ORDINAL,48.0,DMK,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Chief Minister of Tamil Nadu
+In the 2021 Assembly elections, Stalin led the campaign for the Secular Progressive Alliance.",18.0,Tamil Nadu,GPE,36.0,2021,DATE,41.0,Assembly,ORG,61.0,Stalin,PERSON,89.0,the Secular Progressive Alliance,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"They won 159 seats out of 234, with the DMK itself winning an absolute majority with 132 seats.",9.0,159,CARDINAL,26.0,234,CARDINAL,40.0,DMK,ORG,85.0,132,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin took his oath as chief minister on 7 May 2021 along with the rest of his cabinet.,0.0,Stalin,PERSON,42.0,7 May 2021,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Having taken oath amid the second wave of the pandemic, Stalin started a war room to monitor the status of beds, ambulances, and oxygen supply.",27.0,second,ORDINAL,56.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"He attended an SOS call of a lady, spoke with her for 30 minutes, and arranged for her a bed at a hospital.",54.0,30 minutes,TIME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"He wore a PPE suit and visited the COVID-19 patients at their wards ""against advice"" in Government ESI Medical College Hospital.",10.0,PPE,ORG,35.0,COVID-19,PRODUCT,88.0,Government ESI Medical College Hospital,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"A new economic advisory council was set up with leading economists, including Esther Duflo, Raghuram Rajan, Jean Drèze, Arvind Subramanian, and former Finance Secretary S Narayan.",78.0,Esther Duflo,PERSON,92.0,Raghuram Rajan,PERSON,108.0,Jean Drèze,PERSON,120.0,Arvind Subramanian,PERSON,151.0,Finance,ORG,169.0,S Narayan,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tamil Nadu was branded as a state with highest novel coronavirus vaccine wastage in the previous government but the Stalin government made the state to top in the list of states with lowest COVID-19 wastage policy.,0.0,Tamil Nadu,GPE,116.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin handed over appointment orders of the HR & CE Department to trained aspirants of all castes as temple priests in August 2021.,0.0,Stalin,PERSON,41.0,the HR & CE Department,ORG,120.0,August 2021,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin quoted the reformist leader Periyar in an official release which said Periyar fought for equal rights in worship for all those who believe in God.,0.0,Stalin,PERSON,35.0,Periyar,PERSON,77.0,Periyar,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In August 2021, Stalin ranked first among all Chief ministers of India with 42% in favour, in the ""Mood of the Nation"" survey done by the India Today magazine.",3.0,August 2021,DATE,16.0,Stalin,PERSON,30.0,first,ORDINAL,65.0,India,GPE,76.0,42%,PERCENT,138.0,India Today,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stalin changed the name of Sri Lankan Tamil refugee camps to called ‘rehabilitation camps' and said ""They are not orphans, we are there for them"".",0.0,Stalin,PERSON,27.0,Sri Lankan,NORP,38.0,Tamil,NORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In September 2021, he announced that Periyar's birth anniversary will be celebrated as Social Justice Day every year.",3.0,September 2021,DATE,37.0,Periyar,PERSON,87.0,Social Justice Day,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In June 2021, Stalin announced that the state law ministry will review the legal cases filed by the previous government.",3.0,June 2021,DATE,14.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In September 2021, Stalin's government withdrew over 5570 legal cases filed by the previous AIADMK government from the past 10 years against the journalists and the protestors seeking the repeal of the three farm laws promulgated by the Union government, Citizenship Amendment Act, methane extraction, neutrino project, Kudankulam Nuclear Power Plant and the Chennai-Salem Expressway project.",3.0,September 2021,DATE,19.0,Stalin,PERSON,53.0,5570,CARDINAL,92.0,AIADMK,ORG,115.0,the past 10 years,DATE,202.0,three,CARDINAL,237.0,Union,ORG,255.0,Citizenship Amendment Act,LAW,320.0,Kudankulam Nuclear Power Plant,FAC,359.0,Chennai-Salem Expressway project,FAC,,,,,,,,,,,,,,,,,,,,,,,,
+"In May 2022, Stalin hailed the release of Perarivalan, convicted in the assassination of Rajiv Gandhi, and hugged him on his visit of gratitude at the Chennai Airport.",3.0,May 2022,DATE,13.0,Stalin,PERSON,42.0,Perarivalan,PERSON,89.0,Rajiv Gandhi,PERSON,147.0,the Chennai Airport,FAC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Committee assignments of 16th Tamil Nadu Assembly
+Member (2021–23) Business Advisory Committee
+Member (2021–23) Committee on Rules
+
+Ungal Thoguthiyil Mudhalamaichar
+One of the key achievements of Stalin as the Chief Minister is the 'Ungal Thoguthiyil Mudhalamaichar' (Chief Minister in your Constituency), which is a robust grievance redressal service set up to resolve petitions and problems raised by the constituents.",25.0,16th,ORDINAL,30.0,Tamil Nadu,GPE,41.0,Assembly,ORG,67.0,Business Advisory Committee,ORG,112.0,Committee on Rules,ORG,132.0,Ungal Thoguthiyil Mudhalamaichar,PERSON,196.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The timely redressal system took the state by storm as over 2.30 lakh out of 4.57 lakh grievances had been addressed by Stalin in his first 100 days of taking office.,60.0,2.30 lakh,CARDINAL,77.0,4.57 lakh,CARDINAL,120.0,Stalin,PERSON,130.0,his first 100 days,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The department originated from a programme 'Ungal Thoguthiyil Stalin', which was initiated by DMK President Stalin during his election campaign.",44.0,Ungal Thoguthiyil Stalin,WORK_OF_ART,94.0,DMK,ORG,108.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin had collected grievances from the citizens and assured them that their issues would be addressed in 100 days once he took office.,0.0,Stalin,PERSON,107.0,100 days,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Experts and journalist Govi Lenin called the scheme a direct reflection of the DMK's core principle, 'Makkalidam Sel' (Go to the People) coined by the party's founding member, C.",23.0,Govi Lenin,PERSON,79.0,DMK,ORG,176.0,C.,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Annadurai.,0.0,Annadurai,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Tamil Nadu's first agriculture budget
+Stalin released Tamil Nadu's first ever agricultural budget on 14 August 2021, which was dedicated to farmers protesting against the farm laws passed by the Union Government.",0.0,Tamil Nadu's,GPE,13.0,first,ORDINAL,38.0,Stalin,PERSON,54.0,Tamil Nadu's,GPE,67.0,first,ORDINAL,101.0,14 August 2021,DATE,191.0,the Union Government,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The one of a kind budget was prepared after consulting farmers from 18 districts of the state and it predominantly aimed at increasing the cultivable land from the existing 60 per cent to 75 per cent.,4.0,one,CARDINAL,68.0,18,CARDINAL,173.0,60 per cent,PERCENT,188.0,75 per cent,PERCENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"At present, about 10 lakh hectares of land is under cultivation and the agriculture budget promises to increase it to 11.75 lakh hectares.",12.0,about 10 lakh hectares,QUANTITY,118.0,11.75 lakh hectares,QUANTITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Under the budget, the newly launched ‘Kalaignarin Anaithu Grama Orunginaindha Velan Valarchi Thittam’, has been introduced to convert wasteland into cultivable land.",38.0,Kalaignarin Anaithu Grama Orunginaindha Velan Valarchi Thittam,WORK_OF_ART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Illam Thedi Kalvi
+Stalin launched the ‘Illam Thedi Kalvi’ scheme on 19 October 2021, notably India's largest volunteer-based education program”, where over 3.3 million students across 92,000 habitations are being taught by 200,000 women volunteers for 90 minutes every day.",0.0,Illam Thedi Kalvi,PERSON,39.0,Illam Thedi Kalvi,PERSON,68.0,19 October 2021,DATE,93.0,India,GPE,156.0,3.3 million,CARDINAL,184.0,"92,000",CARDINAL,223.0,"200,000",CARDINAL,252.0,90 minutes,TIME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Domain experts and Data scientists have praised the ingenuity of the scheme stating that over 24% of the total recovery from learning loss can be attributed to the ‘Illam Thedi Kalvi’ sessions and that the recovery has been a lot more progressive among the disadvantaged group.,89.0,over 24%,PERCENT,165.0,Illam Thedi,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Innuyir Kappom - Nammai Kakkum 48
+Stalin launched ‘Innuyir Kappom-Nammai Kakkum 48’ on 18 November 2021 through which the State government will bear the expenses of emergency care for accident victims for the first 48 hours.",87.0,18 November 2021,DATE,205.0,the first 48 hours,TIME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Rolling out the scheme at Stalin said that the government was paying special attention to reducing road accidents, preventing fatalities and improving road safety.",26.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+The scheme is aimed at reducing deaths due to road accidents.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A total of 609 hospitals including 201 government hospitals and 408 private hospitals are linked to the scheme.,11.0,609,CARDINAL,35.0,201,CARDINAL,64.0,408,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"All persons injured in road accidents whether they are covered or not under the Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS), or even those who belong to other States or countries that occur in Tamil Nadu limits would receive treatment for the first 48 hours free of charge.",213.0,Tamil Nadu,GPE,259.0,the first 48 hours,TIME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+As many as 81 treatment packages have been identified for accident victims in the hospitals where they shall be were admitted for the first 48 hours with a ceiling of ₹1 lakh per individual.,0.0,As many as 81,CARDINAL,130.0,the first 48 hours,TIME,167.0,₹1 lakh,MONEY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"One of the key highlights of the scheme is that the government would bear the emergency treatment expenses for the first 48 hours in private hospitals, as majority of the lives could be saved if treated appropriately within 48 hours.",0.0,One,CARDINAL,111.0,the first 48 hours,TIME,224.0,48 hours,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Public image and reception
+Stalin's career in the political arena has seen its ups and downs.",27.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"From a challenger to an emerging pragmatic leader, the people of Tamil Nadu have credited his administrative skills and firm rejection of sycophancy.",65.0,Tamil Nadu,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"An example of this was when M.K Stalin asked the Education Minister, Anbil Mahesh Poyyamozhil not to print his photographs on 65 lakh bags meant for distribution among schoolchildren in the state, opting to retain pictures of his political adversaries from the previous government that had sanctioned the project.",28.0,M.K Stalin,PERSON,69.0,Anbil Mahesh Poyyamozhil,PERSON,126.0,65 lakh,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin was commended by domain experts and other ministers across the country for not using public money to enhance his popularity among the “masses”.,0.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+On 2 September 2021 the actor turned former Union Minister Chiranjeevi met with Stalin to commend him on governance efficacy and said he proved his mettle in handling the grave situation of COVID-19 pandemic.,3.0,2 September 2021,DATE,44.0,Union,ORG,59.0,Chiranjeevi,PERSON,80.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The media houses in Kerala lauded Stalin on his policies and efforts in controlling the spread of COVID-19 during the second wave, provision of free bus pass for women and ₹4,000 as a pandemic relief for ration card holders.",20.0,Kerala,GPE,34.0,Stalin,PERSON,118.0,second,ORDINAL,172.0,"₹4,000",MONEY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The Shiv Sena Parliamentarian Sanjay Raut, in his weekly column Rokthok in party mouthpiece Saamana praised Stalin's governance style and criticised the centre's move to omit Jawaharlal Nehru and Maulana Abul Kalam Azad’s picture from ICHR’s Independence day poster ‘Azadi Ke Amrit Mahotsav.’ Raut said the central government is practising the politics of revenge and should learn a lesson from Tamil Nadu Chief Minister Stalin, who allowed the distribution of 6.5 million school bags carrying photos of political rivals former chief ministers J Jayalalitha and E Palaniswami of the AIADMK, to ensure public money is not being spent on political vendetta.",4.0,Shiv Sena,ORG,30.0,Sanjay Raut,PERSON,50.0,weekly,DATE,64.0,Rokthok,WORK_OF_ART,92.0,Saamana,ORG,108.0,Stalin,PERSON,175.0,Jawaharlal Nehru,PERSON,196.0,Maulana Abul Kalam Azad,PERSON,235.0,ICHR,ORG,242.0,Independence day,DATE,267.0,Azadi Ke Amrit Mahotsav,WORK_OF_ART,293.0,Raut,PERSON,395.0,Tamil Nadu,GPE,421.0,Stalin,PERSON,461.0,6.5 million,CARDINAL,544.0,J Jayalalitha,PERSON,562.0,E Palaniswami,PERSON,583.0,AIADMK,ORG
+"Karnataka Chief Minister, Basavaraj Bommai commended Stalin's nuanced policies and continual effort in controlling the spread of COVID-19 at the peak of the second wave.",0.0,Karnataka,GPE,26.0,Basavaraj Bommai,PERSON,53.0,Stalin,PERSON,157.0,second,ORDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Awards and accolades
+Anna University conferred an honorary doctorate for Stalin for his contributions to governance and community development.",21.0,Anna University,ORG,73.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The Kentucky Colonel Award, the highest award given by the Commonwealth of Kentucky in the United States, was given to Stalin for his public service.",0.0,The Kentucky Colonel Award,WORK_OF_ART,55.0,the Commonwealth of Kentucky,GPE,87.0,the United States,GPE,119.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stalin was also honoured as Kentucky's Goodwill Ambassador.,0.0,Stalin,PERSON,28.0,Kentucky,GPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"It is imperative to note that the honour was formerly bestowed to notable personalities such as, Former US Presidents Bill Clinton, George W.",104.0,US,GPE,118.0,Bill Clinton,PERSON,132.0,George W.,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Bush and Ronald Reagan, Nobel laureate Winston Churchill and world-famous boxer Mohammed Ali.",0.0,Bush,PERSON,9.0,Ronald Reagan,PERSON,39.0,Winston Churchill,PERSON,80.0,Mohammed Ali,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"The Government of Tamil Nadu on 23 February 2011 received the Special Award for Best State among the Largest States in India and the Diamond State Award for Best State in 3 categories namely Civil Safety, Drinking Water and Sanitation and Women's Development.",0.0,The Government of Tamil Nadu,ORG,32.0,23 February 2011,DATE,58.0,the Special Award for Best State among the Largest States in India,WORK_OF_ART,129.0,the Diamond State Award,WORK_OF_ART,171.0,3,CARDINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tamil Nadu won the most number of Nirmal Gram Awards for its exceptional role in maintaining sanitation in the villages in the state.,0.0,Tamil Nadu,GPE,34.0,Nirmal Gram Awards,WORK_OF_ART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+This prestigious award was received during Stalin's tenure as Minister of Rural and Local Administrator.,43.0,Stalin,PERSON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Filmography
+Actor
+
+Ore Raththam (1987)
+Makkal Aanayittal  (1988)
+Kurinji Malar- TV Series (late 1988?)
+Suriya — TV Series
+Producer
+
+Nambikkai Natchathram (1978)
+
+See also
+M.",19.0,Ore Raththam,PERSON,33.0,1987,DATE,39.0,Makkal Aanayittal,PERSON,59.0,1988,DATE,91.0,late 1988,DATE,103.0,Suriya,PERSON,132.0,Nambikkai Natchathram,PERSON,155.0,1978,DATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stalin ministry
+
+References
+External links
+
+Tamil Nadu Assembly Profile",44.0,Tamil Nadu Assembly,ORG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

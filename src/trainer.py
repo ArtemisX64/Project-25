@@ -3,9 +3,14 @@ import spacy
 import random
 from spacy.training import Example
 from tqdm import tqdm
+import sys
 
-def read_train_data():
-    df = pd.read_csv("train_data.csv")
+DEFAULT_TRAIN_DATA = "default_train_data.csv"
+DEFAULT_MODEL = "nlp_model_trf"
+
+def read_train_data(custom: bool = False):
+    train_data = DEFAULT_TRAIN_DATA if not custom else "wiki_train_data.csv"
+    df = pd.read_csv(DEFAULT_TRAIN_DATA)
 
     train_data = []
     
@@ -13,7 +18,7 @@ def read_train_data():
         text = row["text"]
         entities = []
         
-        for i in range(10):  # Loop through max 10 entities
+        for i in range(20):  # Loop through max 10 entities
             start_col = f"start{i}"
             text_col = f"text{i}"
             label_col = f"label{i}"
@@ -30,7 +35,7 @@ def read_train_data():
     print(f"Loaded {len(train_data)} samples for training")
     return train_data
 
-def train():
+def train(custom: bool = False):
     nlp = spacy.load("en_core_web_trf")
 
     ner = nlp.get_pipe("ner")
@@ -48,14 +53,19 @@ def train():
         random.shuffle(train_data)
         losses = {}
 
+        #KB tqdm is used for progress bar
         for text, annotations in tqdm(train_data, desc=f"Epoch {epoch+1}"):
             doc = nlp.make_doc(text)
             example = Example.from_dict(doc, annotations)
-            nlp.update([example], drop=0.2, losses=losses)
+            nlp.update([example], drop=0.2, losses=losses, sgd=optimizer)
         print(f"Epoch {epoch + 1} loss: {losses}")
 
-    nlp.to_disk("nlp_model_trf")
+    model = DEFAULT_MODEL if not custom else "wiki_model_trf"
+    nlp.to_disk(model) 
     print("Training completed and model saved")
 
-# Run training
-train()
+
+if sys.argv[0] == "wiki":
+    train(custom=True)
+else:
+    train()
