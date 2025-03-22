@@ -60,12 +60,12 @@ def train(custom: bool = False):
             nlp.update([example], drop=0.2, losses=losses, sgd=optimizer)
         print(f"Epoch {epoch + 1} loss: {losses}")
 
-    model = DEFAULT_MODEL if not custom else "wiki_model_trf"
-    nlp.to_disk(model) 
+    model_jo = DEFAULT_MODEL if not custom else "wiki_model_trf"
+    nlp.to_disk(model_jo) 
     print("Training completed and model saved")
 
 
-if sys.argv[0] == "wiki":
+if sys.argv[1] == "wiki":
     train(custom=True)
 else:
     train()
